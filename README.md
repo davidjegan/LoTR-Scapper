@@ -1,14 +1,11 @@
-# Common-Crawl-Tutorial
-A tutorial on how to use Common crawl for data extraction
+# LoTR-Scrapper
+A template on how to crawl for Lord of the Rings movie data
 
 
 ## Capabilites
-  - Search for links, 
-  - Download the data
-  - Extract external links
-
+  - Search for anchor tags
+  - Extract script, image and movie name
 
 ## Instruction 
 
- - Change the domain name and index 
- - Results are in data folder
+ - Run the Py file directly. As simple as that! 
